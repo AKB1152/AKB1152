@@ -1,0 +1,6 @@
+## [INFO]: 43757272656E7420416374697669747920446F696E6720736C656570792041492053747566660a00
+
+A Hobby Programmer interrested in AIs, Chemistry and Aviation.
+
+
+(they/them lol)
