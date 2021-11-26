@@ -1,6 +1,5 @@
-## [INFO]: 43757272656E7420416374697669747920446F696E6720736C656570792041492053747566660a00
+## [INFO]: 4375 7272 656E 7420 4163 7469 7669 7479 3A20 446F 696E 6720 736C 6565 7079 2041 4920 5374 7566 660a 0000
 
-A Hobby Programmer interrested in AIs, Chemistry and Aviation.
+Person without gender/sexuality but am interested in Chemistry, Aviation, Programing and (Eso-) langs.
 
-
-(they/them lol)
+(they/them)
